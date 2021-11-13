@@ -1,0 +1,12 @@
+The Github page link -
+https://github.com/rachelmishb/himynameisrachel
+
+> Changed table data 'Rachel Brant' font size from 3 to 5
+> Added a 'quick links' menu (ordered list)
+> Added a 'Welcome to my CV' title
+> Added  dashed border around 'quick links' title and 'welcome to my cv' title.
+> changed the font type, colour and size in the 'quick links' menu
+> linked my CV as a google drive pdf in the 'quick links' menu
+> Changed text colour when hovering over hyperlinks from white to pink
+> Added icons to the top of my webpage
+> Changed size and colours of icons added
